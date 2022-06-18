@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Technical Leader at Alohar - #Frontend #JS #TS #PHP
+Fullstack Developer at Light-It - #Frontend #JS #TS #PHP
 
 - 🌐 Website: https://andresnakanishi.com/
 - 🎥 Twitch Channel: https://twitch.tv/richard_cousland/
