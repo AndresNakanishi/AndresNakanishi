@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Fullstack Developer at Light-It - #Frontend #JS #TS #PHP
+Engineering Manager at Light-It
 
 - 🌐 Website: https://andresnakanishi.com/
 - 🎥 Twitch Channel: https://twitch.tv/andresnakanishi/
