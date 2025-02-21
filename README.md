@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Engineering Manager at Light-It
-
 - 🌐 Website: https://andresnakanishi.com/
 - 🎥 Twitch Channel: https://twitch.tv/andresnakanishi/
 - 📺 Instagram: https://instagram.com/andresnakanishi/
